@@ -1,5 +1,4 @@
 # Tensor Flow in Practice Coursera Specialization
-
 ## Course 1: Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning 
 
 ### Readings and Videos
