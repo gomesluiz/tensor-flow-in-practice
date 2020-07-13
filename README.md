@@ -23,3 +23,13 @@
 1. [TensorFlow: an ML platform for solving impactful and challenging problems](https://www.youtube.com/watch?v=NlpS-DhayQA)
 2. [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 3. [Overview of mini-batch gradient descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+
+
+## Course 2: 
+
+### Readings and Videos
+
+#### Week 1
+1. [Dogs vs. Cats Kaggle Competition](https://www.kaggle.com/c/dogs-vs-cats)
+2. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+3. [Sigmoid Function](https://en.wikipedia.org/wiki/Sigmoid_function)
